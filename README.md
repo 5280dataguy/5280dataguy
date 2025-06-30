@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Christian
+# 👋 Hi, I'm 5280dataguy
 
 I'm a freelance data specialist focused on helping small teams clean, analyze, and automate their data using **SQL** and **Python**.
 
