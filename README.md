@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Christian
 
-<!--
-**5280dataguy/5280dataguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freelance data specialist focused on helping small teams clean, analyze, and automate their data using **SQL** and **Python**.
 
-Here are some ideas to get you started:
+I specialize in:
+- 📊 Writing and fixing SQL queries (PostgreSQL, BigQuery, MySQL)
+- 🤖 Automating reporting and file workflows with Python
+- 🧹 Cleaning messy CSVs or Excel files
+- ⚡ Building quick-turn dashboards or scripts to save teams time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Portfolio Projects
+
+🚀 [SQL + Python Freelance Portfolio](---)  
+Includes real examples of data cleanup, automation, and reporting logic.
+
+---
+
+## 💼 Let’s Work Together
+
+📧 Reach me at: `frontrangeprovisions@gmail.com`  
+📍 Based in Denver, CO | Available remotely  
+🌐 Fiverr: 
